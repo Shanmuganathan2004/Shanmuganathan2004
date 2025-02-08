@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmuganathan2004&label=Profile%20views&color=0e75b6&style=flat" alt="shanmuganathan2004" /> </p>
 
-- 🔭 I’m currently working on my skills for to be **Data Science/Analyst**
+- 🔭 I’m currently working on my skills for to be **Data Scienctist/Analyst**
 
 - 🌱 I’m currently learning **llm's and Gen-Ai and Ai-Agents**
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly writing my learnings on [linkedin.com/in/shanmuganathan120](linkedin.com/in/shanmuganathan120)
 
-- 📫 How to reach me **shanmuganathan120@gmail.com**
+- 📫 How to reach me DM me on LinlkedIn
 
-- 📄 Know about my experiences [Error-404 but the bug will be resolved if any try to fix my issue](Error-404 but the bug will be resolved if any try to fix my issue)
+- 📄 Know about my experiences : [Error-404] but the bug will be resolved if anyone try to fix my issue
 
 - ⚡ Fun fact **I think I like to talk about tech so much that other person starts to get better at what I try to say**
 
