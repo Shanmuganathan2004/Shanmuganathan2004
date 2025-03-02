@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **a Job as Data Analyst/Scientist**
 
-- 📝 I regularly writing my learnings on [linkedin.com](linkedin.com/in/shanmuganathan120)
+- 📝 I regularly writing my learnings on [linkedin.com/in/shanmuganathan120](linkedin.com/in/shanmuganathan120)
 
 - 📫 How to reach me DM me on LinlkedIn
 
